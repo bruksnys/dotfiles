@@ -1,0 +1,6 @@
+[user]
+	signingkey = 3D1C179E96AB6CD1
+	email = 38661008+bruksnys@users.noreply.github.com
+	name = Linas Klimaitis
+[commit]
+	gpgsign = true
